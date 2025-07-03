@@ -66,7 +66,7 @@ This project is designed as part of an Object-Oriented Programming course to sho
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/University-Course-Management-System.git
+   git clone https://github.com/wenkang1029/University-Course-Management-System.git
    cd University-Course-Management-System
    ```
 
